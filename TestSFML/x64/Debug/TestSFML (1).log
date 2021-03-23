@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\Lev\Desktop\TestSFML\TestSFML\Game.cpp(132,54): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\Desktop\TestSFML\TestSFML\Game.cpp(148,14): warning C4244: 'initializing': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\Lev\Desktop\TestSFML\TestSFML\Game.cpp(184,55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\Desktop\TestSFML\TestSFML\Game.cpp(228,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lev\Desktop\TestSFML\TestSFML\Game.cpp(245,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TestSFML.vcxproj -> C:\Users\Lev\Desktop\TestSFML\x64\Debug\TestSFML.exe
